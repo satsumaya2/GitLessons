@@ -2,11 +2,11 @@
 
 namespace GitHubConsole1
 {
-    internal class Program
+    class Program
     {
-        private static void Main(string[] args)
+        static void Main(string[] args)
         {
-            Console.WriteLine("Hello World! - update Sample1　fix");
+            Console.WriteLine("Hello World!");
         }
     }
 }
